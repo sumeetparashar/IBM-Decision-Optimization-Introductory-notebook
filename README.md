@@ -6,4 +6,4 @@ Login to your IBM Data Science Experience (DSX) environment. Add a new notebook 
 When you start to add a new Notebook, choose to import it from this URL:
 https://github.com/sumeetparashar/IBM-Decision-Optimization-Introductory-notebook/blob/master/Oil-blend-student-copy.ipynb
 
-Once imported, the notebook itself has the problem description, data, code and instruction to add additional code for CPLEX part.  
+Once imported, the notebook itself has the problem description, data, code and instructions to add additional code for CPLEX part.  
